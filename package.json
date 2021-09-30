@@ -1,0 +1,26 @@
+{
+  "name": "coppas",
+  "version": "1.0.0",
+  "description": "A clipboard daemon and accompanying cli that syncs across networks using UDP.",
+  "main": "src/main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelrommel/coppas.git"
+  },
+  "keywords": [
+    "clipboard"
+  ],
+  "author": {
+    "name": "Michael Rommel",
+    "email": "rommel@layer-7.net",
+    "url": "michaelrommel.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrommel/coppas/issues"
+  },
+  "homepage": "https://github.com/michaelrommel/coppas#readme"
+}
